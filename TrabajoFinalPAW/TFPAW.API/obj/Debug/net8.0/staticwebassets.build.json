@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QE5lDz765gQpJLv9HCpf8YOg0vuI8WBGuoGOrIkghJs=",
+  "Source": "TFPAW.API",
+  "BasePath": "_content/TFPAW.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

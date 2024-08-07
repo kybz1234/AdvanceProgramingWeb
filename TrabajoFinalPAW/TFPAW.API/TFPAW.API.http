@@ -1,0 +1,6 @@
+@TFPAW.API_HostAddress = http://localhost:5089
+
+GET {{TFPAW.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

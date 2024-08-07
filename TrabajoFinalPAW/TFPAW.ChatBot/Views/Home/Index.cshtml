@@ -1,0 +1,259 @@
+﻿@using System.Text.Json
+@{
+    ViewData["Title"] = "Home Page";
+    var initialPrompt = ViewBag.InitialPrompt as string;
+    var initialPromptJson = JsonSerializer.Serialize(initialPrompt);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #003B4A;
+        }
+
+        #chat-container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        #chat-box {
+            height: 400px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            border: 1px solid #dee2e6;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #e9ecef;
+        }
+
+        .user-message {
+            text-align: right;
+            margin: 10px 0;
+        }
+
+            .user-message .message {
+                display: inline-block;
+                background-color: #003B4A;
+                color: #fff;
+                padding: 10px;
+                border-radius: 15px;
+                max-width: 75%;
+            }
+
+        .bot-response {
+            text-align: left;
+            margin: 10px 0;
+        }
+
+            .bot-response .message {
+                display: inline-block;
+                background-color: #6c757d;
+                color: #fff;
+                padding: 10px;
+                border-radius: 15px;
+                max-width: 75%;
+            }
+
+        #user-input {
+            border-radius: 0;
+            border-top-left-radius: 15px;
+            border-bottom-left-radius: 15px;
+        }
+
+        #send-button {
+            border-top-right-radius: 15px;
+            border-bottom-right-radius: 15px;
+        }
+
+        #send-button {
+            background: #003B4A;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="chat-container" class="container">
+        <h2 class="text-center">TravelBuddy</h2>
+        <div id="chat-box"></div>
+        <div class="input-group">
+            <input type="text" id="user-input" class="form-control" placeholder="Type your message..." />
+            <div class="input-group-append">
+                <button id="send-button" class="btn btn-primary">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            var initialPrompt = @Html.Raw(initialPromptJson);
+
+            // Initialize conversation history with system prompt
+            var conversationHistory = [{ role: "system", content: initialPrompt }];
+
+            // Send system prompt automatically
+            $.ajax({
+                url: '@Url.Action("GenerateAnswer", "Home")',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ conversationHistory: conversationHistory }),
+                success: function (response) {
+                    var chatBox = $('#chat-box');
+                    chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
+                    chatBox.scrollTop(chatBox.prop("scrollHeight"));
+                },
+                error: function () {
+                    alert('Error sending initial prompt');
+                }
+            });
+
+            $('#send-button').click(function () {
+                var userInput = $('#user-input').val();
+                if (userInput.trim() !== '') {
+                    var chatBox = $('#chat-box');
+                    chatBox.append('<div class="user-message"><div class="message">' + userInput + '</div></div>');
+
+                    conversationHistory.push({ role: "user", content: userInput });
+
+                    $.ajax({
+                        url: '@Url.Action("GenerateAnswer", "Home")',
+                        method: 'POST',
+                        contentType: 'application/json',
+                        data: JSON.stringify({ conversationHistory: conversationHistory }),
+                        success: function (response) {
+                            chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
+                            $('#user-input').val('');
+                            chatBox.scrollTop(chatBox.prop("scrollHeight"));
+                        },
+                        error: function () {
+                            alert('Error sending message');
+                        }
+                    });
+                }
+            });
+
+            $('#user-input').keypress(function (e) {
+                if (e.which == 13) {
+                    $('#send-button').click();
+                }
+            });
+        });
+    </script>
+
+    <!--
+    <script>
+        $(document).ready(function () {
+            var conversationHistory = [];
+
+            $('#send-button').click(function () {
+                var userInput = $('#user-input').val();
+                if (userInput.trim() !== '') {
+                    var chatBox = $('#chat-box');
+                    chatBox.append('<div class="user-message"><div class="message">' + userInput + '</div></div>');
+
+
+                    conversationHistory.push({ role: 'user', content: userInput });
+
+                    $.ajax({
+                        url: 'Url.Action("GenerateAnswer", "Home")',
+                        method: 'POST',
+                        contentType: 'application/json',
+                        data: JSON.stringify({ conversationHistory: conversationHistory }),
+                        success: function (response) {
+                            chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
+
+                            conversationHistory.push({ role: 'assistant', content: response.answer });
+
+                            $('#user-input').val('');
+                            chatBox.scrollTop(chatBox.prop("scrollHeight"));
+                        },
+                        error: function () {
+                            alert('Error sending message');
+                        }
+                    });
+                }
+            });
+
+            $('#user-input').keypress(function (e) {
+                if (e.which === 13) {
+                    $('#send-button').click();
+                }
+            });
+        });
+    </script>
+
+    -->
+
+    <!--
+    <script>
+        const communicationEL = document.getElementById('communication');
+        const chatEL = document.getElementById('chat');
+        const inputEL = document.getElementById('input');
+        const sendEL = document.getElementById('send');
+
+        sendEL.addEventListener('click', function () {
+            communicationEL.style.border = '2px solid red';
+
+            var messages = JSON.parse(communicationEL.innerHTML);
+            messages.push({
+                "role": "user",
+                "content": inputEL.value
+            });
+
+            const data = {
+                'messages': messages
+            };
+
+            fetch('/Home/GenerateAnswer', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt: inputEL.value })
+            })
+                .then(response => response.json())
+                .then(body => {
+                    messages.push({
+                        "role": "system",
+                        "content": body.answer
+                    });
+                    communicationEL.innerHTML = JSON.stringify(messages);
+                    communicationEL.style.border = '';
+                    displayChat();
+                });
+        });
+
+        function displayChat() {
+            var messages = JSON.parse(communicationEL.innerHTML);
+            var output = document.createElement('article');
+
+            for (let i = 0; i < messages.length; i++) {
+                var speech = document.createElement('p');
+                var speaker = '<span style="color: blue">User:</span> ';
+                if (messages[i].role == 'system') {
+                    speaker = '<span style="color: red">Assistant:</span> ';
+                }
+                speech.innerHTML = speaker + messages[i].content.replaceAll('\n', '<br>');
+                output.append(speech);
+            }
+            chatEL.innerHTML = '';
+            chatEL.append(output);
+        }
+
+        displayChat();
+    </script>
+    -->
+</body>
+</html>
