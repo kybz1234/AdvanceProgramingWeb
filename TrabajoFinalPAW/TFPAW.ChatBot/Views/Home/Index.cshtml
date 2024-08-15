@@ -11,6 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chatbot</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
     <style>
         body {
             background-color: #003B4A;
@@ -18,7 +19,7 @@
 
         #chat-container {
             max-width: 600px;
-            margin: 50px auto;
+            margin: 20px auto;
             padding: 20px;
             background: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -26,7 +27,7 @@
         }
 
         #chat-box {
-            height: 400px;
+            height: 300px;
             overflow-y: auto;
             margin-bottom: 20px;
             border: 1px solid #dee2e6;
@@ -72,17 +73,36 @@
         #send-button {
             border-top-right-radius: 15px;
             border-bottom-right-radius: 15px;
-        }
-
-        #send-button {
             background: #003B4A;
         }
 
+        #map {
+            height: 300px;
+            margin-top: 20px;
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+        }
+
+        .back-button {
+            margin: 20px;
+            background-color: #0056b3;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            .back-button:hover {
+                background-color: #003d82;
+            }
     </style>
 </head>
 <body>
     <div id="chat-container" class="container">
         <h2 class="text-center">TravelBuddy</h2>
+        <button class="back-button" onclick="window.location.href='@Url.Action("Index", "Travel")'">Volver a Travel</button>
         <div id="chat-box"></div>
         <div class="input-group">
             <input type="text" id="user-input" class="form-control" placeholder="Type your message..." />
@@ -92,18 +112,26 @@
         </div>
     </div>
 
+    <div id="map" class="container"></div>
+
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     <script>
-
         $(document).ready(function () {
             var initialPrompt = @Html.Raw(initialPromptJson);
 
-            // Initialize conversation history with system prompt
+            // Inicializa el historial de la conversación con el mensaje del sistema
             var conversationHistory = [{ role: "system", content: initialPrompt }];
 
-            // Send system prompt automatically
+            // Inicializa el mapa
+            var map = L.map('map').setView([9.145, -83.7534], 8); // Coordenadas para Costa Rica
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 19,
+            }).addTo(map);
+
+            // Envia el mensaje del sistema automáticamente
             $.ajax({
                 url: '@Url.Action("GenerateAnswer", "Home")',
                 method: 'POST',
@@ -113,6 +141,24 @@
                     var chatBox = $('#chat-box');
                     chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
                     chatBox.scrollTop(chatBox.prop("scrollHeight"));
+
+                    // Datos de prueba para lugares
+                    var mockPlaces = [
+                        { name: "Playa Tamarindo", latitude: 10.2989, longitude: -85.8412 },
+                        { name: "Playa Conchal", latitude: 10.3155, longitude: -85.8110 },
+                    ];
+
+                    // Si la respuesta contiene datos de ubicación, añade marcadores al mapa
+                    if (response.places && response.places.length > 0) {
+                        response.places.forEach(function (place) {
+                            L.marker([place.latitude, place.longitude]).addTo(map)
+                                .bindPopup(place.name)
+                                .openPopup();
+                        });
+                        // Centra el mapa en la última ubicación
+                        var lastPlace = response.places[response.places.length - 1];
+                        map.setView([lastPlace.latitude, lastPlace.longitude], 13);
+                    }
                 },
                 error: function () {
                     alert('Error sending initial prompt');
@@ -136,6 +182,24 @@
                             chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
                             $('#user-input').val('');
                             chatBox.scrollTop(chatBox.prop("scrollHeight"));
+
+                            // Datos de prueba para lugares
+                            var mockPlaces = [
+                                { name: "Playa Tamarindo", latitude: 10.2989, longitude: -85.8412 },
+                                { name: "Playa Conchal", latitude: 10.3155, longitude: -85.8110 },
+                            ];
+
+                            // Si la respuesta contiene datos de ubicación, añade marcadores al mapa
+                            if (response.places && response.places.length > 0) {
+                                response.places.forEach(function (place) {
+                                    L.marker([place.latitude, place.longitude]).addTo(map)
+                                        .bindPopup(place.name)
+                                        .openPopup();
+                                });
+                                // Centra el mapa en la última ubicación
+                                var lastPlace = response.places[response.places.length - 1];
+                                map.setView([lastPlace.latitude, lastPlace.longitude], 13);
+                            }
                         },
                         error: function () {
                             alert('Error sending message');
@@ -152,108 +216,5 @@
         });
     </script>
 
-    <!--
-    <script>
-        $(document).ready(function () {
-            var conversationHistory = [];
-
-            $('#send-button').click(function () {
-                var userInput = $('#user-input').val();
-                if (userInput.trim() !== '') {
-                    var chatBox = $('#chat-box');
-                    chatBox.append('<div class="user-message"><div class="message">' + userInput + '</div></div>');
-
-
-                    conversationHistory.push({ role: 'user', content: userInput });
-
-                    $.ajax({
-                        url: 'Url.Action("GenerateAnswer", "Home")',
-                        method: 'POST',
-                        contentType: 'application/json',
-                        data: JSON.stringify({ conversationHistory: conversationHistory }),
-                        success: function (response) {
-                            chatBox.append('<div class="bot-response"><div class="message">' + response.answer + '</div></div>');
-
-                            conversationHistory.push({ role: 'assistant', content: response.answer });
-
-                            $('#user-input').val('');
-                            chatBox.scrollTop(chatBox.prop("scrollHeight"));
-                        },
-                        error: function () {
-                            alert('Error sending message');
-                        }
-                    });
-                }
-            });
-
-            $('#user-input').keypress(function (e) {
-                if (e.which === 13) {
-                    $('#send-button').click();
-                }
-            });
-        });
-    </script>
-
-    -->
-
-    <!--
-    <script>
-        const communicationEL = document.getElementById('communication');
-        const chatEL = document.getElementById('chat');
-        const inputEL = document.getElementById('input');
-        const sendEL = document.getElementById('send');
-
-        sendEL.addEventListener('click', function () {
-            communicationEL.style.border = '2px solid red';
-
-            var messages = JSON.parse(communicationEL.innerHTML);
-            messages.push({
-                "role": "user",
-                "content": inputEL.value
-            });
-
-            const data = {
-                'messages': messages
-            };
-
-            fetch('/Home/GenerateAnswer', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ prompt: inputEL.value })
-            })
-                .then(response => response.json())
-                .then(body => {
-                    messages.push({
-                        "role": "system",
-                        "content": body.answer
-                    });
-                    communicationEL.innerHTML = JSON.stringify(messages);
-                    communicationEL.style.border = '';
-                    displayChat();
-                });
-        });
-
-        function displayChat() {
-            var messages = JSON.parse(communicationEL.innerHTML);
-            var output = document.createElement('article');
-
-            for (let i = 0; i < messages.length; i++) {
-                var speech = document.createElement('p');
-                var speaker = '<span style="color: blue">User:</span> ';
-                if (messages[i].role == 'system') {
-                    speaker = '<span style="color: red">Assistant:</span> ';
-                }
-                speech.innerHTML = speaker + messages[i].content.replaceAll('\n', '<br>');
-                output.append(speech);
-            }
-            chatEL.innerHTML = '';
-            chatEL.append(output);
-        }
-
-        displayChat();
-    </script>
-    -->
 </body>
 </html>

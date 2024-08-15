@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7m3JCYiuWMg9IHXpuqZ3f2Cx3m/w8+E5u6638nN1n+z9sBtmhLqR/BbRTwuZcPnaMO5Nt05uhyLb/MGSu8GCvA==",
+  "dgSpecHash": "RqU3tgr4kmowsyEtSrCEukSoQPCoFwMiCQ7vch/tQAodCv+K1CXipkJD8gV1AMyxB4L/OICgvnDvB6WpdtHLFA==",
   "success": true,
-  "projectFilePath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
+  "projectFilePath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",

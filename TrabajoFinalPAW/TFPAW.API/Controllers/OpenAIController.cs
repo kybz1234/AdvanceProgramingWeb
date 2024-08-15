@@ -1,29 +1,34 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TFPAW.Models;
 using TFPAW.Service;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace TFPAW.API.Controllers;
-
-public class OpenAIController : Controller
+namespace TFPAW.API.Controllers
 {
-
-    private readonly IOpenAIService _openAIService;
-
-    public OpenAIController(IOpenAIService openAIService)
+    [Route("api/[controller]")]
+    [ApiController]
+    public class OpenAIController : ControllerBase
     {
-        _openAIService = openAIService;
-    }
+        // Dependency Injection
+        private readonly IOpenAIService _openAIService;
 
-    [HttpPost("generate")]
-    public async Task<IActionResult> GenerateAnswer([FromBody] ConversationRequest request)
-    {
-        if (request == null || request.ConversationHistory == null || !request.ConversationHistory.Any())
+        public OpenAIController(IOpenAIService openAIService)
         {
-            return BadRequest("Conversation history cannot be empty");
+            _openAIService = openAIService;
         }
 
-        var answer = await _openAIService.GenerateAnswer(request.ConversationHistory);
+        [HttpPost("generate")]
+        public async Task<IActionResult> GenerateAnswer([FromBody] ConversationRequest request)
+        {
+            if (request == null || request.ConversationHistory == null || !request.ConversationHistory.Any())
+            {
+                return BadRequest("Conversation history cannot be empty");
+            }
 
-        return Ok(new { answer });
+            var answer = await _openAIService.GenerateAnswer(request.ConversationHistory);
+
+            return Ok(new { answer });
+        }
     }
 }

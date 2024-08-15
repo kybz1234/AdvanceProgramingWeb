@@ -1,33 +1,33 @@
-﻿using System.Net.Http.Headers;
-using System.Text;
+﻿using System.Text;
+using TFPAW.Architecture;
 
-namespace TFPAW.Architecture.Helpers;
-
-internal static class HttpProviderExtentions
+public static class RestProviderFactory
 {
-    private static void AddDefaultRequestHeader(this HttpClient client, string name, string value)
+    public static IRestProvider CreateRestProvider()
     {
-        var defaultHeaders = client.DefaultRequestHeaders;
-        if (defaultHeaders.Contains(name))
-            defaultHeaders.Remove(name);
-        defaultHeaders.Add(name, value);
+        return new RestProvider();   //  Factory Method Pattern
     }
 }
 
-// DESIGN_PATTERN: Factory Method
-
 public static class RestProviderHelpers
 {
-    public static HttpClient CreateHttpClient(string endpoint)
+
+    // Patrón: Helper/Utility Class
+    public static HttpClient CreateHttpClient(string baseUrl)
     {
-        var client = new HttpClient { BaseAddress = new Uri(endpoint) };
-        client.DefaultRequestHeaders.Accept.Clear();
-        client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-        return client;
+        var httpClient = new HttpClient
+        {
+            BaseAddress = new Uri(baseUrl),
+            Timeout = TimeSpan.FromSeconds(30) // Ajusta el tiempo de espera según sea necesario
+        };
+        return httpClient;
     }
 
-    // Método de fábrica para crear contenido JSON
-    public static StringContent CreateContent(string content) => new(content, Encoding.UTF8, "application/json");
+
+    public static HttpContent CreateContent(string content)
+    {
+        return new StringContent(content, Encoding.UTF8, "application/json");
+    }
 
     public static async Task<string> GetResponse(HttpResponseMessage response)
     {
@@ -35,5 +35,8 @@ public static class RestProviderHelpers
         return await response.Content.ReadAsStringAsync();
     }
 
-    public static Exception ThrowError(string endpoint, Exception ex) => new ApplicationException($"Error getting data from {endpoint}", ex);
+    public static Exception ThrowError(string endpoint, Exception ex)
+    {
+        return new Exception($"Error en la solicitud a {endpoint}: {ex.Message}", ex);
+    }
 }

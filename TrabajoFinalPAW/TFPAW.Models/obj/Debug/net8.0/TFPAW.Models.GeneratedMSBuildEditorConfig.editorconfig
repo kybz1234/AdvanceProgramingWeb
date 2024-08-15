@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TFPAW.Models
-build_property.ProjectDir = D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.Models\
+build_property.ProjectDir = C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Models\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

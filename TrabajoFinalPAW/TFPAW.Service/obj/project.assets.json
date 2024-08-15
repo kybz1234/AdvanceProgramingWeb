@@ -517,11 +517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
+      "projectUniqueName": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
       "projectName": "TFPAW.Service",
-      "projectPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
+      "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Service\\TFPAW.Service.csproj",
       "packagesPath": "C:\\Users\\cquir\\.nuget\\packages\\",
-      "outputPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Service\\obj\\",
+      "outputPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cquir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -538,11 +538,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {
-              "projectPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj"
+            "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {
+              "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj"
             },
-            "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {
-              "projectPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj"
+            "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {
+              "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj"
             }
           }
         }

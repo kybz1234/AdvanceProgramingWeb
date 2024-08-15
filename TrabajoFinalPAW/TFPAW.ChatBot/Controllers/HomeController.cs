@@ -1,17 +1,43 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using TFPAW.ChatBot.Models;
 using TFPAW.Service;
 using TFPAW.Models;
+using TFPAW.ChatBot.Models;
 
 namespace TFPAW.ChatBot.Controllers
 {
     public class HomeController : Controller
     {
+        // Patrón: Inyección de Dependencias
         private readonly IOpenAIService _openAIService;
-        private readonly string _initialPrompt = "Eres un asistente virtual llamado TravelBuddy, diseñado para ayudar a las personas a encontrar lugares turísticos y hoteles en cualquier zona que indiquen de Costa Rica si tratan de preguntarte de otro sitio, comentaras amablemente que aun no esta disponible en esa locacionzacion. Usarás la API de OpenAI para proporcionar información detallada sobre los lugares y la API de OpenStreetMap para mostrar la ubicación exacta de estos lugares en el mapa.\n\nTu tarea es:\n1. Preguntar a los usuarios sobre la zona que les interesa.\n2. Proporcionar recomendaciones de lugares turísticos y hoteles en la zona indicada.\n3. Utilizar la API de OpenStreetMap para agregar los nodos de los lugares recomendados y mostrar su ubicación en el mapa.\n\nInicia la conversación preguntando al usuario: \"¡Hola! ¿En qué zona te gustaría encontrar lugares turísticos y hoteles? Proporcióname una ciudad o área específica.\"\n\nCuando el usuario indique una zona, responde con algo similar a: \"Aquí tienes algunas recomendaciones de lugares turísticos y hoteles en [nombre de la zona].\"\n\nFinalmente, proporciona la información detallada sobre cada lugar y utiliza la API de OpenStreetMap para agregar los nodos correspondientes.\n\nEjemplo de conversación:\nUsuario: \"Quiero encontrar lugares turísticos y hoteles en Barcelona.\"\nBot: \"¡Genial! Aquí tienes algunas recomendaciones de lugares turísticos y hoteles en Barcelona.\"\n1. Sagrada Familia (Nodo: [ID del nodo en Open Street Map])\n2. Park Güell (Nodo: [ID del nodo en Open Street Map])\n3. Hotel Arts Barcelona (Nodo: [ID del nodo en Open Street Map])\n\nPuedes preguntarme más detalles sobre cualquier lugar o pedir nuevas recomendaciones. ¡Estoy aquí para ayudarte a planificar tu viaje perfecto!\"\n\nRecuerda siempre proporcionar información precisa y actualizada, y asegurarte de que los nodos de OpenStreetMap sean correctos.";
+        private readonly string _initialPrompt = @"Eres TravelBuddy, un asistente virtual especializado en Costa Rica. Tu tarea es ayudar a los usuarios a encontrar todo tipo de ubicaciones en el país, incluyendo pero no limitado a:
+
+                                                1. Ciudades y pueblos
+                                                2. Playas y parques nacionales
+                                                3. Hoteles y alojamientos
+                                                4. Restaurantes y cafeterías
+                                                5. Tiendas y centros comerciales
+                                                6. Atracciones turísticas
+                                                7. Servicios locales (bancos, farmacias, pulperías, etc.)
+
+                                                Cuando respondas a una consulta sobre lugares o ubicaciones:
+
+                                                1. Proporciona siempre el nombre completo del lugar.
+                                                2. Incluye la latitud y longitud exactas de cada ubicación.
+                                                3. Usa el siguiente formato estricto para cada lugar: 'Nombre del lugar, latitud, longitud'
+                                                4. Coloca cada lugar en una línea separada.
+                                                5. Proporciona la mayor cantidad sugerencias relevantes para cada consulta.
 
 
+                                                Ejemplo de respuesta:
+
+                                                Hotel Arenal Kioro Suites & Spa, 10.4911, -84.7490
+                                                La Fortuna Waterfall, 10.4433, -84.6708
+                                                Arenal Volcano National Park, 10.4631, -84.7060
+                                                Mistico Arenal Hanging Bridges Park, 10.4398, -84.7728
+                                                Termales Los Laureles, 10.4796, -84.6528
+
+                                                Recuerda: Tu objetivo es proporcionar información precisa y útil sobre ubicaciones en Costa Rica, siempre en el formato especificado.";
         public HomeController(IOpenAIService openAIService)
         {
             _openAIService = openAIService;
@@ -19,12 +45,11 @@ namespace TFPAW.ChatBot.Controllers
 
         public IActionResult Index()
         {
-
             ViewBag.InitialPrompt = _initialPrompt;
             return View();
-
         }
 
+        // Patrón: Facade
         [HttpPost]
         [Route("Home/GenerateAnswer")]
         public async Task<IActionResult> GenerateAnswer([FromBody] ConversationRequest request)
@@ -40,11 +65,64 @@ namespace TFPAW.ChatBot.Controllers
                 Content = _initialPrompt
             };
             request.ConversationHistory.Insert(0, initialMessage);
-
             var answer = await _openAIService.GenerateAnswer(request.ConversationHistory);
 
-            return Json(new { answer });
+            // Extrae lugares y coordenadas de la respuesta
+            var places = ExtractPlacesFromAnswer(answer);
+
+            return Json(new { answer, places });
         }
+
+        private List<object> ExtractPlacesFromAnswer(string answer)
+        {
+            var places = new List<object>();
+            var lines = answer.Split('\n', StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var line in lines)
+            {
+                var parts = line.Split(',').Select(p => p.Trim()).ToArray();
+                if (parts.Length >= 3)
+                {
+                    var name = parts[0];
+                    if (double.TryParse(parts[1], out double latitude) &&
+                        double.TryParse(parts[2], out double longitude))
+                    {
+                        places.Add(new { Name = name, Latitude = latitude, Longitude = longitude });
+                    }
+                }
+            }
+
+            return places;
+        }
+
+        // Patrón: Facade
+        [HttpPost]
+        [Route("Home/GetMapData")]
+        public async Task<IActionResult> GetMapData([FromBody] string location)
+        {
+            // Verifica que la ubicación no esté vacía.
+            if (string.IsNullOrWhiteSpace(location))
+            {
+                return BadRequest("Ubicación no proporcionada.");
+            }
+
+            var apiUrl = $"https://localhost:5001/map/{Uri.EscapeDataString(location)}";
+
+            using (var httpClient = new HttpClient())
+            {
+                try
+                {
+                    var response = await httpClient.GetStringAsync(apiUrl);
+                    return Json(new { mapData = response });
+                }
+                catch (HttpRequestException ex)
+                {
+                    return StatusCode(500, $"Error al obtener datos del mapa: {ex.Message}");
+                }
+            }
+        }
+
+
 
         public IActionResult Privacy()
         {

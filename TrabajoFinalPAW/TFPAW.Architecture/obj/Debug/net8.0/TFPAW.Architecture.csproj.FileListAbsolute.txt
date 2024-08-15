@@ -10,3 +10,63 @@ D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPA
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll

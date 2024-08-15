@@ -1,30 +1,36 @@
+//program chatbot
+
 using TFPAW.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Configuración de servicios
 builder.Services.AddControllersWithViews();
-builder.Services.AddScoped<IOpenAIService, OpenAIService>();
+
+// Lee configuración de OpenAI
+var openAIOptions = builder.Configuration.GetSection("OpenAI").Get<OpenAIOptions>();
+builder.Services.AddSingleton<IOpenAIService>(new OpenAIService(openAIOptions.ApiKey, openAIOptions.Endpoint));
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute(name: "default", pattern: "{controller=Travel}/{action=Index}/{id?}");
 
 app.Run();
+
+
+public class OpenAIOptions
+{
+    public string Endpoint { get; set; }
+    public string ApiKey { get; set; }
+}

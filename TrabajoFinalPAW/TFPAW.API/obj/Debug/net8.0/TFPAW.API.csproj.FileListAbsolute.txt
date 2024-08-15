@@ -39,3 +39,208 @@ D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPA
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
 D:\Educacion\Fidelitas\IIC2024\Programacion avanzada en Web\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.exe
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.deps.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.runtimeconfig.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.AssemblyReference.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfoInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.TFPAW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\scopedcss\bundle\TFPAW.API.styles.css
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.Up2Date
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\refint\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.genruntimeconfig.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\ref\TFPAW.API.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.exe
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.deps.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.runtimeconfig.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.AssemblyReference.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfoInputs.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfo.cs
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CoreCompileInputs.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.TFPAW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TFPAW.API.props
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFPAW.API.props
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFPAW.API.props
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\scopedcss\bundle\TFPAW.API.styles.css
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.Up2Date
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\refint\TFPAW.API.dll
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.pdb
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.genruntimeconfig.cache
+C:\Users\yairu\OneDrive\Escritorio\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\ref\TFPAW.API.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\refint\TFPAW.API.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.exe
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.deps.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.runtimeconfig.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.dll
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.pdb
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.AssemblyReference.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfoInputs.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfo.cs
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CoreCompileInputs.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.TFPAW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TFPAW.API.props
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFPAW.API.props
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFPAW.API.props
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\scopedcss\bundle\TFPAW.API.styles.css
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CopyComplete
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.genruntimeconfig.cache
+C:\Users\jasin\Downloads\AdvanceProgramingWeb-mainp\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\ref\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.exe
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.deps.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.runtimeconfig.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.AssemblyReference.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfoInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.TFPAW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFPAW.API.props
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\scopedcss\bundle\TFPAW.API.styles.css
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.Up2Date
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\refint\TFPAW.API.dll
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.pdb
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.genruntimeconfig.cache
+C:\Users\kenne\Desktop\Uiversidad Fidelitas\Progra Avanza En Web\Proyecto\asdas\AdvanceProgramingWeb-main\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\ref\TFPAW.API.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.exe
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.deps.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.runtimeconfig.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.API.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Architecture.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Models.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\bin\Debug\net8.0\TFPAW.Service.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.AssemblyReference.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfoInputs.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.AssemblyInfo.cs
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CoreCompileInputs.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.TFPAW.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.build.TFPAW.API.props
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFPAW.API.props
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFPAW.API.props
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\scopedcss\bundle\TFPAW.API.styles.css
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.csproj.CopyComplete
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\refint\TFPAW.API.dll
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.pdb
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\TFPAW.API.genruntimeconfig.cache
+C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.API\obj\Debug\net8.0\ref\TFPAW.API.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAkNIzHdpG28e7JuFkEvXqKi+QruwNXaR5SeezW3S9H2AaI31YGwpaBN7kbD/PKNekKo11U7rZgGiL98e2E/0A==",
+  "dgSpecHash": "A08mHADBSDauWne5sjZ6aiwxg1Qcj5ctwjShtPM2Vq0FQQL7zbSz31N3avLmL7aWWJH7SaqENzgRy0/J3VjEdg==",
   "success": true,
-  "projectFilePath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.ChatBot\\TFPAW.ChatBot.csproj",
+  "projectFilePath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\TFPAW.ChatBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",

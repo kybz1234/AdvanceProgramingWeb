@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {}
+    "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {}
   },
   "projects": {
-    "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {
+    "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
         "projectName": "TFPAW.Architecture",
-        "projectPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
+        "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
         "packagesPath": "C:\\Users\\cquir\\.nuget\\packages\\",
-        "outputPath": "D:\\Educacion\\Fidelitas\\IIC2024\\Programacion avanzada en Web\\TrabajoFinalPAW\\TFPAW.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cquir\\AppData\\Roaming\\NuGet\\NuGet.Config",

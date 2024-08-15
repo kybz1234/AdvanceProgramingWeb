@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using TFPAW.Service;
 
 namespace TFPAW.API.Controllers
@@ -8,7 +7,7 @@ namespace TFPAW.API.Controllers
     [ApiController]
     public class OpenStreetMapController : ControllerBase
     {
-
+        // Dependency Injection
         private readonly OpenStreetMapService _osmService;
 
         public OpenStreetMapController(OpenStreetMapService osmService)
@@ -29,6 +28,5 @@ namespace TFPAW.API.Controllers
             var data = await _osmService.GetNodeDataAsync(nodeId);
             return Ok(data);
         }
-
     }
 }
