@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "97X+AU47zqh1JxF7N5PpDoPWdXRx70eNSECREU+2ZF/F4X4qK/3SnAonuMhNK3meB8hS/FQxQV/t3l1c3oI1jw==",
+  "dgSpecHash": "kdNpw0L7nJ3hD/ht8S5EB9KBvu0gea6piKRjkEwdykI1a1L1sPpcRy4faHlGGd4vn2XH45cPg7rHhIJCKh7afg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.API\\TFPAW.API.csproj",
+  "projectFilePath": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.API\\TFPAW.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cquir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

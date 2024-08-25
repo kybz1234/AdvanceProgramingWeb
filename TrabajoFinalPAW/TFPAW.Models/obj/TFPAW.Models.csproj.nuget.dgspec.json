@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {}
+    "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {
+    "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj",
+        "projectUniqueName": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj",
         "projectName": "TFPAW.Models",
-        "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj",
+        "projectPath": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Models\\TFPAW.Models.csproj",
         "packagesPath": "C:\\Users\\cquir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Models\\obj\\",
+        "outputPath": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cquir\\AppData\\Roaming\\NuGet\\NuGet.Config",

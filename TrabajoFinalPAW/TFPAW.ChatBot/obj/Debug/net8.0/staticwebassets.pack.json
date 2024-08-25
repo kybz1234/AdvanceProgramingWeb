@@ -1,331 +1,331 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TFPAW.ChatBot.bundle.scp.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TFPAW.ChatBot.bundle.scp.css",
       "PackagePath": "staticwebassets\\TFPAW.ChatBot.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\css\\site.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\favicon.ico",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Costarica.jpeg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Costarica.jpeg",
       "PackagePath": "staticwebassets\\img\\Costarica.jpeg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Costaricaa.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Costaricaa.jpg",
       "PackagePath": "staticwebassets\\img\\Costaricaa.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Logo_Travel_Buddy.png",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\Logo_Travel_Buddy.png",
       "PackagePath": "staticwebassets\\img\\Logo_Travel_Buddy.png"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\PlayaTamarindo.jpeg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\PlayaTamarindo.jpeg",
       "PackagePath": "staticwebassets\\img\\PlayaTamarindo.jpeg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\arenal.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\arenal.jpg",
       "PackagePath": "staticwebassets\\img\\arenal.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\aventu.jpeg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\aventu.jpeg",
       "PackagePath": "staticwebassets\\img\\aventu.jpeg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\aventura1.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\aventura1.jpg",
       "PackagePath": "staticwebassets\\img\\aventura1.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\bosque.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\bosque.jpg",
       "PackagePath": "staticwebassets\\img\\bosque.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\canopy.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\canopy.jpg",
       "PackagePath": "staticwebassets\\img\\canopy.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\coco.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\coco.jpg",
       "PackagePath": "staticwebassets\\img\\coco.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\conchal.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\conchal.jpg",
       "PackagePath": "staticwebassets\\img\\conchal.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\corcovado.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\corcovado.jpg",
       "PackagePath": "staticwebassets\\img\\corcovado.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\cultura.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\cultura.jpg",
       "PackagePath": "staticwebassets\\img\\cultura.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\hotel.jpeg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\hotel.jpeg",
       "PackagePath": "staticwebassets\\img\\hotel.jpeg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\hotel1.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\hotel1.jpg",
       "PackagePath": "staticwebassets\\img\\hotel1.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\manuel.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\manuel.jpg",
       "PackagePath": "staticwebassets\\img\\manuel.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\montev.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\montev.jpg",
       "PackagePath": "staticwebassets\\img\\montev.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\playa1.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\playa1.jpg",
       "PackagePath": "staticwebassets\\img\\playa1.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\raft.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\raft.jpg",
       "PackagePath": "staticwebassets\\img\\raft.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\tama.jpeg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\tama.jpeg",
       "PackagePath": "staticwebassets\\img\\tama.jpeg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\volcan.jpg",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\img\\volcan.jpg",
       "PackagePath": "staticwebassets\\img\\volcan.jpg"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\js\\site.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.ChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

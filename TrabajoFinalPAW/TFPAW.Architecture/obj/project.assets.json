@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
+      "projectUniqueName": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
       "projectName": "TFPAW.Architecture",
-      "projectPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
+      "projectPath": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Architecture\\TFPAW.Architecture.csproj",
       "packagesPath": "C:\\Users\\cquir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cquir\\OneDrive\\Escritorio\\proyecto\\AdvanceProgramingWeb-main\\TrabajoFinalPAW\\TFPAW.Architecture\\obj\\",
+      "outputPath": "D:\\GIT\\repositories\\AdvanceProgramingWeb\\TrabajoFinalPAW\\TFPAW.Architecture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cquir\\AppData\\Roaming\\NuGet\\NuGet.Config",

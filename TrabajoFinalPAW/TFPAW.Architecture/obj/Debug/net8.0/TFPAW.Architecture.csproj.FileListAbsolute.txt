@@ -70,3 +70,16 @@ C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFin
 C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
 C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
 C:\Users\cquir\OneDrive\Escritorio\proyecto\AdvanceProgramingWeb-main\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.deps.json
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.dll
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\bin\Debug\net8.0\TFPAW.Architecture.pdb
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.AssemblyReference.cache
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfoInputs.cache
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.AssemblyInfo.cs
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.csproj.CoreCompileInputs.cache
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.sourcelink.json
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.dll
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\refint\TFPAW.Architecture.dll
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\TFPAW.Architecture.pdb
+D:\GIT\repositories\AdvanceProgramingWeb\TrabajoFinalPAW\TFPAW.Architecture\obj\Debug\net8.0\ref\TFPAW.Architecture.dll
